@@ -24,6 +24,8 @@ Two 1kΩ and one 330Ω resistors are used. The 1kΩ resistors are used as loa
 A led is used to indicate that a constant dc voltage is been provided.
 
 Alternate Components:
+
+
 <img width="538" height="184" alt="image" src="https://github.com/user-attachments/assets/8467389e-ee82-4fb0-a7b3-f51ce4031a9e" />
 
 
